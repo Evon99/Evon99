@@ -1,7 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&width=1000&height=100&lines=JeongHun's+GitHub!👋)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFCC99&text=JeongHun's+GitHub!&animation=fadeIn&height=200&fontColor=ffffff&fontAlign=60)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evon99&show_icons=true&theme=radical)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evon99&layout=compact)](https://github.com/Evon99/github-readme-stats)
 <!--
 **Evon99/Evon99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
